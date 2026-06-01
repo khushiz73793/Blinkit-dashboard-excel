@@ -16,4 +16,7 @@ An interactive sales performance dashboard for Blinkit
 - Charts & Conditional Formatting
 
 ## Dashboard Preview
-Coming soon# Blinkit-dashboard-excel
+![Blinkit Dashboard]
+<img width="1278" height="545" alt="Screenshot 2026-05-28 162917" src="https://github.com/user-attachments/assets/0555e9f6-8512-44b3-8c57-9ee0120d866f" />
+
+
